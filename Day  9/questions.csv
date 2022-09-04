@@ -1,0 +1,15 @@
+What is the destructor in Python?,__delete__, __del,__del__,__del__,1
+Which py library is used for GUI in Python?,TKinter,Pandas,Scipy,TKinter,1
+In Python multiplying an integer and a float results in ____.,int,error,float,float,1
+'+' operator between a string and a number results in ___.,string,error,number,error,1
+What is the keyword for defining a function in python?,fun,define,def,def,1
+What type of loop can be used when the range is defined?,do while,while,for,for,1
+When the range is unknown which type of loop is used?,for,while,foreach,while,1
+Printing a variable can be formated using ___.,.f(),.format(),.format{},.format(),1
+Datatype of the input() is ___.,int(),String(),str(),str(),1
+Regular expressions can be used in Python by importing ___ library.,Regex,reg,re,re,1
+Which file operation is used for reading a file?,r,w,a,r,2
+Which file operation is used for creating a file?,r,w,a,w,2
+Which file operation is used for editing a file?,r,w,a,a,2
+Using 'w' operation for already existing file results in ___.,creates a new file,edits the file,only reads the file,creates a new file,2
+Which function returns the current position in a file?,tell(),seek(),find(),tell(),2
